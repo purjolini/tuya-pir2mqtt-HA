@@ -1,6 +1,6 @@
 
 #!/bin/sh
-# Seconds between micro sec checks
+# Micro seconds between checks
 WATCHDOG_SLEEP_SEC=500000
 # Seconds between availability payloads
 WATCHDOG_AVAILABILITY_SEC=120
